@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    text-align: center;
+    
+}
+body{
+    background-color: white;
+    
+    
+}
+table{
+    width: 100%;
+    margin-top: 30px;
+}
+img{
+    border-radius:5%;
+    box-shadow: 0 0 15px white;
+}
+#header{
+    background-color: #06032c;
+    height: 70px;
+
+}
+h1{
+    color: #ffffff;
+}
+#brand{
+    width: 40%;
+    float: left;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+}
+#menu{
+    width: 60%;
+    float: right;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+    
+    
+   
+}
+a{
+    color: #ffe2e0;
+    margin-right: 20px;
+    text-decoration: none;
+    te
+    
+}
+#title{
+    margin-top: 50px;
+
+}
+h5{
+    color:lightsteelblue;
+}
+#about{
+    margin-top: 20px;
+    background: linear-gradient(45deg,#d7ede2,#014871);
+    height: 650px;
+   padding: 10PX;
+}
+
+#adv{
+    background: linear-gradient(45deg,#014872,#A0EACF);
+    color: white;
+    width:400px;
+    padding: 15px;
+    border-radius: 50%;
+    margin:30px auto;
+    box-shadow:0 0 15px #06032c;
+    
+}
+
+#destination{
+  background: linear-gradient(45deg,#CCFBFF,#EF96C5);
+  height: 650px;
+  padding: 10px;
+
+}
+
+#des{
+    background: linear-gradient(45deg,#451E61,#FB8E6A);
+    
+    color: white;
+    width:500px;
+    padding: 15px;
+    border-radius: 50%;
+    margin:30px auto;
+    box-shadow:0 0 15px #06032c;
+}
+#offer{
+    margin-top: 60px;
+}
+h2{
+    color: #040430;
+    padding: 5px;
+    line-height: 30px;
+}
+#off{
+    background: linear-gradient(45deg,#A82654,#FD8C69);
+    color: white;
+    width:500px;
+    padding: 15px;
+    border-radius: 50%;
+    margin:30px auto;
+    box-shadow:0 0 15px #06032c;
+
+}
+#offers{
+    background: linear-gradient(45deg, #FD9869,#FEC9C9);
+    padding: 10px;
+   height: 250px;
+   
+
+}
+#footer{
+    background-color: black;
+    padding: 50px;
+    color: white;
+    margin-top: 0px;
+
+}
